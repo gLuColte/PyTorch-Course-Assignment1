@@ -1,5 +1,4 @@
 # PyTorch-Course-Assignment
-Introductory work to Pytorch, coursework.
 
 This respository presents Nerual Network (COMP9444) Homework 1. Review report pdf for detailed analysis. 
 
